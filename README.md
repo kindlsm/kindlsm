@@ -1,2 +1,1 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:84fab0,100:8fd3f4&height=200&section=header&text=Hello%20I'm%20soomin&fontSize=85&animation=fadeIn"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:84fab0,100:8fd3f4&height=200&section=header&text=Welcome%20My%20github&desc=Owner%20:%20soomin&descSize=25&fontSize=55&descAlign=65&descAlignY=48&fontAlign=65&fontAlignY=30&animation=fadeIn"/>
