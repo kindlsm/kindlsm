@@ -1,6 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:84fab0,100:8fd3f4&height=200&section=header&text=Soomin's%20github&descSize=25&fontSize=55&fontAlignY=30&descAlignY=50&animation=fadeIn"/>
-<h2 align = left>안녕하세요 ! backend devloper & devops 임수민 입니다!</h2>
-<p align = left>👋 배우는 걸 즐기고 빠르게 성장하는 백엔드 & DevOps 개발자를 꿈꾸고 있습니다.</p> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jua&weight=900&size=30&pause=1000&color=F7F7F7&background=000000&width=900&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+!+backend+devloper+%26+devops+%EC%9E%84%EC%88%98%EB%AF%BC+%EC%9E%85%EB%8B%88%EB%8B%A4!" alt="Typing SVG" /></a><p align = left>👋 배우는 걸 즐기고 빠르게 성장하는 백엔드 & DevOps 개발자를 꿈꾸고 있습니다.</p> 
 <p align = left>🌱 아직 많이 부족하지만, 새로운 기술에 대한 호기심과 적응력은 누구보다 자신 있습니다.</p> 
 <p align = left>🚀 작지만 꾸준한 도전을 통해 실력을 쌓아가고 있습니다.</p> 
 <h3>:speech_balloon: contact</h3><a href="https://instagram.com/1m_daun"><img src="https://img.shields.io/badge/instagram-d62976?style=badge&logo=Instagram&logoColor=white"/></a>
@@ -31,6 +30,7 @@
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/-Assembly-000?style=for-the-badge&logo=assembl&logoColor=white">
 </p>
 
 <h3>📚 Used framework</h3>
@@ -40,5 +40,6 @@
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD">
   <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white">
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 </p>
 
