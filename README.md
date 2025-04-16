@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:84fab0,100:8fd3f4&height=200&section=header&text=Soomin's%20github&descSize=25&fontSize=55&fontAlignY=30&descAlignY=50&animation=fadeIn"/>
-<h2 align = left>안녕하세요 ! bakcend devloper & devops 임수민 입니다!</h2>
+<h2 align = left>안녕하세요 ! backend devloper & devops 임수민 입니다!</h2>
 <p align = left>👋 배우는 걸 즐기고 빠르게 성장하는 백엔드 & DevOps 개발자를 꿈꾸고 있습니다.</p> 
 <p align = left>🌱 아직 많이 부족하지만, 새로운 기술에 대한 호기심과 적응력은 누구보다 자신 있습니다.</p> 
 <p align = left>🚀 작지만 꾸준한 도전을 통해 실력을 쌓아가고 있습니다.</p> 
